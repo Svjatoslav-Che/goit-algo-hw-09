@@ -63,9 +63,6 @@
 
 ### Встановлення
 ```bash
-# Клонувати репозиторій
-git clone <repository-url>
-cd cash-register
 
 # Встановити залежності (не потрібно для базового Python)
 python -m venv venv
